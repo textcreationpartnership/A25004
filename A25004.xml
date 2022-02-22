@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the confession and execution of Captain Vratz, Geo. Boraski, and John Sterne, who were this present Friday, being the tenth of March, executed at Pell-mall for the barbarous murther of Thomas Thynne, Esquire together with a particular relation of their behaviour in Newgate since their condemnation, and manner of their passing to the place of execution.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25004</idno>
+            <idno type="STC">Wing A265</idno>
+            <idno type="STC">ESTC R4269</idno>
+            <idno type="EEBO-CITATION">11887750</idno>
+            <idno type="OCLC">ocm 11887750</idno>
+            <idno type="VID">50393</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25004)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50393)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 47:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the confession and execution of Captain Vratz, Geo. Boraski, and John Sterne, who were this present Friday, being the tenth of March, executed at Pell-mall for the barbarous murther of Thomas Thynne, Esquire together with a particular relation of their behaviour in Newgate since their condemnation, and manner of their passing to the place of execution.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for S.T.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Vratz, Christopher, d. 1682.</term>
+               <term>Stern, John, d. 1682.</term>
+               <term>Borodzycz, George, d. 1682.</term>
+               <term>Thynne, Thomas, 1648-1682.</term>
+               <term>Executions and executioners --  England.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:50393:1" rendition="simple:additions"/>
+            <head>AN ACCOUNT Of the Confeſſion and Execution OF Captain <hi>Vratz, Geo. Boraski,</hi> AND <hi>John Sterne,</hi> Who were this preſent Friday, being the Tenth of <hi>March,</hi> Executed at <hi>Pell-mall,</hi> for the Barbarous Mur<g ref="char:EOLhyphen"/>ther of <hi>Thomas Thynne</hi> Eſquire.</head>
+            <head type="sub">TOGETHER With a particular Relation of their Behavi<g ref="char:EOLhyphen"/>our in <hi>Newgate</hi> ſince their Condemnation, and manner of their paſſing to the place of Execution.</head>
+            <p>SInce the Condemnation of theſe Notorious Criminals, they have been conſtantly Viſited by many eminent Divines, who have Re<g ref="char:EOLhyphen"/>ligiouſly endeavoured to prepare them for their ſpeedy End, and to make them have a due ſenſe of the State they are going to enter into, by preſſing ſeveral Pious and Religious Diſcourſes to them, importing the horridneſs of Bloud-guiltineſs, and how hainous a thing it is in the ſight of God to ſhed Innocent Bloud; endeavouring thereby to bring them to a true ſenſibleneſs of their approaching death.</p>
+            <p>On Sunday laſt the Reverend Doctor <hi>Burnet</hi> Preached to them, and the other Priſoners, and made a moſt excellent Sermon, ſetting forth the nature of Sin, and the dreadfulneſs of Hell and Damnation, ſhew<g ref="char:EOLhyphen"/>ing them their danger of being irrecoverably and eternally loſt and un<g ref="char:EOLhyphen"/>done; exhorting them to repent and mourn heartily for their ſins. As for their Behaviour ſince their Condemnation, the Captain appeared for ſome days after his being Sentenced, with no kind of ſeeming Concern, but onely at the Manner of his Death; declaring, He had many times in Battel hazarded his Life with abſolute Unconcernedneſs; but his dying this Ignominious Death, would leave a Stain upon his Poſterity. But upon hearing the Doctor preach, it pleaſed God to ſet his ſin ſo home upon his Conſcience, that he began to be ſomewhat more concerned than be<g ref="char:EOLhyphen"/>fore; whereupon the Doctor took the opportunity of his ſeeming Con<g ref="char:EOLhyphen"/>cernedneſs, by farther inſtructing and directing him in the Work of Re<g ref="char:EOLhyphen"/>pentance and Faith; ſo that it is hoped he is become a true Penitent:
+<pb n="2" facs="tcp:50393:2"/>and as a ſignal of it, hath, as 'tis ſaid, confeſſed very conſiderable things to the Doctor, in relation to the Murther for which he was Condemned. Yeſterday-morning there was a Dutch Miniſter with him, w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o likewiſe took a great deal of pains to prepare him for the Reception o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he bleſſed Sacrament; at, and after which, he appeared very devout and penitent, and ſpent the reſt of the day in Meditation and Prayer, and a ſerious Preparation for his Death; the time of which he was made ſenſible of, by a perſon who was ſent to him for that purpoſe.</p>
+            <p>
+               <hi>John Sterne</hi> the Lieutenant, hath behaved himſelf very penitently ever ſince his Commitment, and hath employed himſelf in writing, as 'tis thought, the full Account of his being brought into this Tragedy; as alſo a Relation of his former Life. He has expreſt a great ſorrow for his being concerned in that Inhumane and Unmanly Murther; declaring, he never was concerned in any private Murther before, but had many times hazarded his Life in the Field. He was likewiſe extraordinarily af<g ref="char:EOLhyphen"/>fected with Dr. <hi>Burnet's</hi> Sermon, making all outward ſignals of his ſor<g ref="char:EOLhyphen"/>row and abhorrence of that great ſin, and all others which he had been guilty of, heartily deſiring all them which were Auditors to that moſt Excellent Diſcourſe, to continue their Prayers for him, during that little time which he had to ſojourn here. Yeſterday he received the holy Sa<g ref="char:EOLhyphen"/>crament from the aforeſaid Dutch Miniſter, in a very devout and ſeri<g ref="char:EOLhyphen"/>ous manner; after which he continued praying for a conſiderable time, and ſo continued to ſpend the remaining part of the day; very much e<g ref="char:EOLhyphen"/>videncing his ſorrow for the barbarous Fact, and heartily begging God forgiveneſs, and that he would enable him to prepare his Soul for E<g ref="char:EOLhyphen"/>ternity.</p>
+            <p>As for that unhappy perſon <hi>George Boraskie,</hi> the perſon that gave the Mortal Wound, at his firſt Commitment he ſeemed no way to be concer<g ref="char:EOLhyphen"/>ned, being a fellow very ignorant and unlearned, and trained up from his Youth, to the time of his Taking, a Souldier; (too many of whom, ſel<g ref="char:EOLhyphen"/>dom think on the God that made them, or have any thoughts of Reli<g ref="char:EOLhyphen"/>gion.) By reaſon of his not being able to underſtand one word of <hi>Eng<g ref="char:EOLhyphen"/>liſh,</hi> he has been frequently prayed with in his own Dialect, and ſeems now to be brought to ſome particular ſenſe of his condition; and, as 'tis ſaid, has likewiſe received the Sacrament.</p>
+            <p>Thus have we given you a true Account of their Behaviour ſince Com<g ref="char:EOLhyphen"/>mitment; and now ſhall come to tell you the manner of their Conveyance to the place of Execution; which was in <hi>Pell mall,</hi> very neer the place where the horrid Murther was committed. The Captain and Lieute<g ref="char:EOLhyphen"/>nant were conveyed in a Coach from <hi>Newgate</hi> down the <hi>Old-baily,</hi> through <hi>Fleet ſtreet,</hi> and ſo along the <hi>Strand,</hi> to the place of Execution. The Captain was in a black Suit, and an embroidered Cap on his head, with a ſcarlet Ribbon round it. And after them came the <hi>Polander.</hi> They had a very ſtrong Guard, and a multitude of People following them. All the Balconies in their paſſage were filled with Spectators. When they came to the place of Execution, they were taken out of the Coaches, and put into Carts; and after ſome ſhort Speech and private Prayers, they were all three executed according to their Sentence.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>S. T.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
